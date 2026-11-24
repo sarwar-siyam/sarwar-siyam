@@ -63,6 +63,7 @@ von der Pipeline in Azure und Databricks bis zum fertigen Bericht in Power BI.
 
 | Projekt | Beschreibung | Tools |
 |---|---|---|
+| [**Data Warehouse mit Medallion-Architektur**](https://github.com/sarwar-siyam/sql-data-warehouse-project) | Webshop- und ERP-Daten über Bronze → Silver → Gold zu einem Sternschema: ETL, Datenqualitätsregeln, automatisierte Tests. | SQL Server, T-SQL, Docker |
 | [Arbeitsmarktanalyse für Data Analysts](https://github.com/sarwar-siyam/Postgres_Queries) | Welche Skills sind gefragt *und* gut bezahlt? Analyse von Stellenanzeigen über ein Sternschema. | PostgreSQL, SQL |
 | [Datenbereinigung & explorative Analyse](https://github.com/sarwar-siyam/sql_projekte) | Bereinigung von Immobiliendaten und Analyse weltweiter COVID-19-Daten. | SQL Server, T-SQL |
 
